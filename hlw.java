@@ -1,5 +1,9 @@
-hii everyone>.
+class hello{
+ int i=10;
+ int j=20;
 
-  how are you
-   i am fine
-==================
+//task -101 changes
+m1(){
+
+ }
+}
