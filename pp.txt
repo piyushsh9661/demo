@@ -1,9 +1,5 @@
 hii everyone,
-
 how are you .
-<<<<<<< HEAD
-
 i am fine .
 thank you everyone.
-=======
->>>>>>> parent of d19aff8 (Update pp.txt)
+
