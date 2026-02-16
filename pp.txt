@@ -3,10 +3,4 @@ hii everyone,
 how are you .
 
 i am fine .
-<<<<<<< HEAD
-ok thankyou.
-=======
-
-=======
-how are you.
->>>>>>> parent of 168fac2 (add this file;)
+thank you everyone.
